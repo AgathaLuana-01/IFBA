@@ -1,3 +1,3 @@
-# IFBA - Instituto Federal de Educação, Ciência e Tecnologia da Bahia
-  Atividades!!!
+# Análise e Desenvolvimento de Sistemas - IFBA
 
+  Pastas com disciplinas e atividades feitas em C.
